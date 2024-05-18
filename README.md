@@ -19,6 +19,7 @@ In this analysis we need to predict the fair value a host should ask based on di
 
 *All values strictly apply to the month of July 2018*
 
+#### You can find the explanation of the code below:
 The code is about data preprocessing and training a machine learning model to predict the price of a property based on various features. It starts with loading the data from a CSV file and performing exploratory data analysis to understand the distribution of the features and identify any missing values or outliers.
 
 The code then cleans the data by imputing missing values and encoding categorical features. It also creates new features based on existing ones, such as bedrooms per person and bathrooms per person.
